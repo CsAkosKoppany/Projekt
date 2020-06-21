@@ -4,7 +4,7 @@ Többváltozós analízis mérnöki alkalmazásai projekt feladat
 Készítette:\
 Csuta Ákos Koppány (A754ZN), Dobák Dávid (XX34G7)
 
-Az oldalon megtalálható kódok mutatják be az általunk választott projekt megvalósítását. Egy "Genetic algotithm", GA segítségével oldottuk meg az alábbi problémát:\
+Az oldalon megtalálható kódok mutatják be az általunk választott projekt megvalósítását. Egy "Genetic algorithm", GA segítségével oldottuk meg az alábbi problémát:\
 Adott egy tetszőleges méretű "nagy", és több tetszőleges méretű "kis" téglalap. A feladat a "nagy" téglalap átfedés- és kilógásmentes lefedése, méghozzá minél nagyobb arányban.
 
 - Az első kód a legegyszerűbb példa, amikor a lefedendő téglalap azonos méretű az egyik "kis" téglalappal. Ezen a példán magyarázó kommentek sorával ismertetjük a megoldás módját. Mivel ez minden további példa esetében is azonos, a későbbi eseteknél nem részletezzük a megoldás menetét.
